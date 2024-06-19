@@ -1,10 +1,5 @@
 # Windows Forms Calculator Application
 
-![2](https://github.com/anlbora/Calculator-WPF-NET/assets/100442507/926f6b28-0e5e-4247-9368-8656391bac8b)
-
-![4](https://github.com/anlbora/Calculator-WPF-NET/assets/100442507/230fd0c3-3823-49aa-a759-805d1627ae60)
-
-
 ## Overview
 
 This repository contains a simple calculator application built using Windows Forms in C#. The calculator supports basic arithmetic operations and has features for evaluating complex expressions with parentheses and handling square root operations.
